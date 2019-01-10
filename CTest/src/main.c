@@ -10,7 +10,7 @@ int main()
 {
   puts("main!");
 
-#if(0)
+#if(1)
   testBitField();
 #endif
 
